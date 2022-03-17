@@ -1,0 +1,100 @@
+.mainBody {
+  color: #ffffff;
+  background-color: #ffffff;
+  background: no-repeat url("./page1Bakgrund.png");
+}
+
+.kollenBody {
+  background: no-repeat url("./Stonks.jpg");
+  background-size: cover;
+}
+
+h1 {
+  margin-left: 3%;
+  margin-top: 1.5%;
+  font-size: 250%;
+}
+
+.länk1 {
+  width: 15%;
+  height: 15%;
+  left: 20%;
+  top: 40%;
+  position: absolute;
+  background: #43f106;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-size: 150%;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.bakgrundRäkna {
+  position: absolute;
+  width: 25%;
+  height: 50%;
+  left: 55%;
+  top: 20%;
+  background: rgba(148, 250, 112, 0.62);
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.boxRäkna {
+  background-color: #43f106;
+  height: 30%;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+
+.aktieKoll {
+  position: absolute;
+  width: 30%;
+  height: 60%;
+  left: 40%;
+  top: 20%;
+  background: rgba(148, 250, 112, 0.62);
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+input {
+  display: flex;
+  justify-content: center;
+  color: black;
+  border: none;
+}
+
+.knapp2 {
+  background-color: #ffffff;
+  border: 0;
+}
+
+.information {
+  display: flex;
+  justify-content: right;
+  margin-top: -7%;
+}
+
+h2 {
+  font-size: 150%;
+  padding: 1%;
+  margin-right: 3%;
+  color: #ffffff;
+  background-color: #43f106;
+  border-radius: 40%;
+}
+
+.tillbaka {
+  font-size: 150%;
+  text-decoration: none;
+  background-color: #43f106;
+  color: #ffffff;
+  margin-top: 0%;
+  margin-left: 0%;
+}
