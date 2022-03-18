@@ -4,11 +4,6 @@
   background: no-repeat url("./page1Bakgrund.png");
 }
 
-.kollenBody {
-  background: no-repeat url("./Stonks.jpg");
-  background-size: cover;
-}
-
 h1 {
   margin-left: 3%;
   margin-top: 1.5%;
@@ -81,20 +76,21 @@ input {
   margin-top: -7%;
 }
 
-h2 {
+.saker {
   font-size: 150%;
   padding: 1%;
   margin-right: 3%;
   color: #ffffff;
   background-color: #43f106;
   border-radius: 40%;
+  text-decoration: none;
 }
 
 .tillbaka {
-  font-size: 150%;
   text-decoration: none;
-  background-color: #43f106;
+  margin-left: 2%;
+  margin-top: 3%;
+  font-size: 250%;
   color: #ffffff;
-  margin-top: 0%;
-  margin-left: 0%;
 }
+
